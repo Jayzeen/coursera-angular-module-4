@@ -1,0 +1,22 @@
+h1 {
+  font-size: 1px;
+  color: #fff;
+  background-color: #d2e6f9;
+  text-align: center;
+}
+
+div.home {
+  font-size: 25px;
+  font-style: italic;
+  background-color: #e6ffff;
+}
+
+ul {
+  font-weight: bold;
+  color: #00004d;
+}
+
+li {
+  font-size: 15px;
+  
+}
